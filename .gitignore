@@ -3,7 +3,6 @@
 *.exe
 /in
 /out
-/doc
 *.PNG
 *.png
 *.aux
