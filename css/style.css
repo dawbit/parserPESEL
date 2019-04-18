@@ -1,0 +1,50 @@
+body{
+	background-image: url("dark-triangles/dark-triangles.png");
+	/*========================================================
+	This pattern is downloaded from www.subtlepatterns.com 
+	If you need more, that's where to get'em.
+	========================================================*/
+	color: NavajoWhite;
+	overflow-y: scroll;
+	height: 100%;
+}
+
+h1, h2, h3{
+	text-align: center;
+	position: sticky;
+}
+
+h1{
+	color: Bisque;
+}
+
+h2{
+	color: Wheat;
+}
+
+h3{
+	color: LightSlateGrey;
+}
+
+table, tr, th, td{
+	border-collapse: collapse;
+	border: 2px solid LightSlateGrey;
+	text-align: left;
+}
+
+table{
+	margin: 0 auto;
+	text-align: left;
+	border-spacing: 10px;
+}
+
+tr{
+	height: 20px;
+}
+
+td{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}

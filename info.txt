@@ -1,0 +1,8 @@
+Dawid Bitner IA RMS Informatyka sem 3 Jêzyki skryptowe
+=========================================================================
+skrypt.bat - zarz¹dza uruchamianiem plików			[BATCH]
+parserPESEL.exe - algorytm sprawdza poprawnoœæ numeru PESEL	[C++]
+skrypt_parser.py - tworzenie raportu				[Python]
+=========================================================================
+.exe, .bat, .py umieœci³em w folderze nadrzêdnym do folderów in i out
+w celu uproszeczenia dzia³ania aplikacji

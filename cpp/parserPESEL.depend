@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1541872406 source:c:\users\dawid\desktop\semestr 3\parserpesel\src\pesel.cpp
+	"..\pesel.h"
+
+1541866092 c:\users\dawid\desktop\semestr 3\parserpesel\include\pesel.h
+
+1544543516 source:c:\users\dawid\desktop\semestr 3\parserpesel\main.cpp
+	"pesel.h"
+
+1541954746 c:\users\dawid\desktop\semestr 3\parserpesel\pesel.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+
+1541871893 c:\users\dawid\desktop\semestr 3\parserpesel\src\pesel.cpp
+	"pesel.h"
+
+1541954194 source:c:\users\dawid\desktop\semestr 3\parserpesel\pesel.cpp
+	"pesel.h"
+
+1541874821 c:\users\dawid\desktop\semestr 3\parserpesel\pesel.cpp
+	"pesel.h"
+
+1545667464 source:c:\users\dawid\desktop\semestr 3\parserpesel\cpp\main.cpp
+	"pesel.h"
+
+1541954746 c:\users\dawid\desktop\semestr 3\parserpesel\cpp\pesel.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+
+1541954194 source:c:\users\dawid\desktop\semestr 3\parserpesel\cpp\pesel.cpp
+	"pesel.h"
+
